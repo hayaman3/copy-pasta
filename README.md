@@ -1,0 +1,2 @@
+# copy-pasta
+for inits
